@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### The website is built with HTML, CSS, Javascript, React, axios (For Connection), and Vite (For good performance)
+### The Data is fetched by  OpenWeatherAPI with the help of axios
 
-Currently, two official plugins are available:
+## Instructions To run the code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Please Make sure Node (v18.15.0) and React is installed in Your System <br>
+- To install all the Dependencies <br>
+- Run the following Commands
+
+```bash
+npm install
+npm run dev
+```
+
+The website Will run on port 5173 locally.
+
+## The website is live [here](https://curiousvishu-weather-app.netlify.app/)
